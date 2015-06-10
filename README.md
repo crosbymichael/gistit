@@ -12,7 +12,7 @@ By default, all gists are created publicly.  If you want a private gist do:
 
 ```bash
 
-gistit -p=false test_file.go
+gistit -s test_file.go
 
 ```
 
